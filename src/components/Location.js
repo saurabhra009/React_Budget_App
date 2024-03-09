@@ -18,7 +18,7 @@ const Location = () => {
         <option value="£">Uk(£)</option>
         <option value="₹">India(₹)</option>
         <option value="€">Europe(€)</option>
-        <option value="CAD">Canada(CAD)</option>
+        <option value="$">USD($)</option>
       </select>	
       }	
     </div>
